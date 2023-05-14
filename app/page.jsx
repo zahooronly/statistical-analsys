@@ -7,10 +7,7 @@ export default function Home() {
     <div>
       <head>
         <title>Statistical Analysis</title>
-        <link
-          rel="icon"
-          href="https://icons8.com/icon/4sLGcBGrn5H9/statistic"
-        />
+        <link rel="icon" href="/favicon.ico" />
       </head>
       <main>
         <h1 className="text-gray-700 bg-purple-400 ">Statistical Analysis</h1>
